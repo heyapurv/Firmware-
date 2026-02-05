@@ -32,7 +32,7 @@ Think of QEMU as **“hardware inside a terminal”**.
 qemu-system-x86_64 [machine] [firmware] [memory] [disk] [console]
 ```
 
-### Simple Meaning
+### Meaning
 
 | Part       | What it Represents       |
 | ---------- | ------------------------ |
