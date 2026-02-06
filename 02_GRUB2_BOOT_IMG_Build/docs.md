@@ -60,11 +60,7 @@ EOF
 Use the `-d` flag to point to the `grub-core` directory that we just built.
 
 ```bash
-./grub-mkstandalone \
-    -d grub-core/ \
-    -O x86_64-efi \
-    -o bootx64.efi \
-    "boot/grub/grub.cfg=grub.cfg"
+./grub-mkstandalone -d grub-core/ -O x86_64-efi -o bootx64.efi  "boot/grub/grub.cfg=grub.cfg"
 
 ```
 
