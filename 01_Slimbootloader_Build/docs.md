@@ -41,7 +41,7 @@ cd slimbootloader
 
 Slim Bootloader uses cryptographic keys for image signing.
 
-Create a directory for keys outside the source code:
+Create a folder for keys outside the source code:
 
 ```bash
 mkdir -p ../SblKeys
