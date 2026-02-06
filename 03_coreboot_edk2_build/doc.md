@@ -28,6 +28,7 @@ make menuconfig
  1. Select Payload 
     - go to payload to add
         - Select edk2 Payload 
+
         ![alt text](image-1.png)
 
         - EDK II build type --> Build UefiPayloadPkg 
@@ -37,7 +38,8 @@ make menuconfig
 
  2.  Go to Main Board 
       - Select main board Model as QEMU x86 q35/ich9
-    ![alt text](image.png)
+
+      ![alt text](image.png)
 
       - Save + Ok + Exit 
 
