@@ -135,6 +135,10 @@ qemu-system-x86_64 \
   -machine q35 \
   -pflash Outputs/qemu/SlimBootloader.bin
 ```
+- Output : 
+
+![alt text](image.png)
+
 
 > **Explanation**
 
